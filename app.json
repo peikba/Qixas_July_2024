@@ -1,0 +1,40 @@
+{
+  "id": "533abfca-d5cb-4063-a636-790798de28f2",
+  "name": "Super Solution",
+  "publisher": "Qixas",
+  "version": "24.0.0.0",
+  "brief": "Super Solution",
+  "description": "This is my Super Solution - Buy Me!",
+  "privacyStatement": "https://ba-consult.dk/downloads/warrenty.txt",
+  "EULA": "https://ba-consult.dk/downloads/warrenty.txt",
+  "help": "",
+  "url": "",
+  "logo": "./Images/Logo.jpg",
+  "dependencies": [
+  {
+    "id": "68e13fa3-217a-4be0-9141-99e5bf0ca818",
+    "name": "Email - SMTP Connector",
+    "publisher": "Microsoft",
+    "version": "1.0.0.0"
+  }
+],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
